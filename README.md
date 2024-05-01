@@ -1,2 +1,3 @@
 # sureshdemo
-this my first Git repository
+This my first Git repository
+Author : Suresh
